@@ -34,5 +34,5 @@ disciplines_skills:
 
 <h2>Skills</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,webpack,vscode,github)
-![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,ae,figma,svg)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,webpack)
+![My Skills](https://skillicons.dev/icons?i=vscode,github,ai,ps,pr,ae,figma,svg)
